@@ -1,0 +1,6 @@
+print("ingrese un numero")
+num1=int (input())
+print ("ingrese un numero")
+num2 = int (input())
+print (num1+num2)
+print ("el resultado es: " , num1+num2 )
