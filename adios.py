@@ -1,2 +1,2 @@
-en clases 
+print ( 2+2)
 
